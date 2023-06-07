@@ -1,8 +1,8 @@
-## The official code implementation of PKU Computational Photography Final Project (2023 Spring)
+## Code implementation of PKU Computational Photography Final Project (2023 Spring)
 
-Author: [Rundong Luo](https://red-fairy.github.io)
+**Author: [Rundong Luo](https://red-fairy.github.io)**
 
-Email: rundong_luo@stu.pku.edu.cn
+**E-mail: rundong_luo@stu.pku.edu.cn**
 
 
 ### 1. Datasets
