@@ -1,8 +1,9 @@
 ## The official code implementation of PKU Computational Photography Final Project (2023 Spring)
 
-Author: Rundong Luo
+Author: [Rundong Luo](redfairy.github.io)
 
-E-mail: rundong_luo@stu.pku.edu.cn
+Email: rundong_luo@stu.pku.edu.cn
+
 
 ### 1. Datasets
 You may download from the [uORF](https://github.com/KovenYu/uORF) repository. If you need the additional data, please contact me.
